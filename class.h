@@ -2,7 +2,7 @@
 #include<string>
 using namespace std;
 
-bool check(int Vexnum, int edge);
+bool check(int Vexnum, int edge);//11
 
 //记录源路由器到每个路由器的最短路径的信息
 struct Dis {
